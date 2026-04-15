@@ -11,6 +11,8 @@
 
 BBitcoin Pegasus combines the reliability of Bitcoin Core with a lightweight, async‑first architecture. Whether you are a trader, on-chain analyst, or infrastructure engineer, Pegasus gives you wings.
 
+<img width="1200" height="1600" alt="WhatsApp Image 2026-04-15 at 14 34 18" src="https://github.com/user-attachments/assets/db9ea139-43df-4516-87a0-fbb994c1b91d" />
+
 ---
 
 ## ✨ Features
