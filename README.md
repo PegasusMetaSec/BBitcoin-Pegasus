@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="WhatsApp Image 2026-04-14 at 23 23 16" src="https://github.com/user-attachments/assets/3651eac1-1dbf-4c04-a211-3b68db01ba6c" />
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
